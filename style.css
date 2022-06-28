@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* Padronização de Cores através de variáveis */
 :root{
     --white: hsl(0, 0%, 100%);
     --lightGray: hsl(212, 45%, 89%);

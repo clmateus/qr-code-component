@@ -26,6 +26,7 @@ main{
     height: 100vh;
 }
 
+/*Container principal*/
 .card{
     background-color: var(--white);
     padding: 1.1rem;

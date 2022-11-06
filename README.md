@@ -1,3 +1,9 @@
-# qr-code-component
-A simple qr-code card component made with HTML and CSS
-Project from front-end mentor.
+# QR Code Component
+
+Um card que exibe um código QR e algumas informações em texto.
+
+# Tecnologias Usadas
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>

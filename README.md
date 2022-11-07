@@ -2,6 +2,8 @@
 
 Um card que exibe um código QR e algumas informações em texto.
 
+<img src="./qr-code-component-image.png />
+
 # Tecnologias Usadas
 
 <ul>
